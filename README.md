@@ -1,24 +1,24 @@
 # my-suburb
 for hackaton
 
-MYSQL db:
-Server: sql11.freemysqlhosting.net
-Name: sql11167855
-Username: sql11167855
-Password: LwsvqMwXsb
-Port number: 3306
+MYSQL db:<br>
+Server: sql11.freemysqlhosting.net<br>
+Name: sql11167855<br>
+Username: sql11167855<br>
+Password: LwsvqMwXsb<br>
+Port number: 3306<br>
 
-BACKEND:
-npm install
-npm start
+BACKEND:<br>
+npm install<br>
+npm start<br>
 Works on port 9999(check config.json)
 
 Check localhost:9999/api/index for graphql utility, type '{coordinates}' and run it
 If you need to connect to this endpoint via xhr, just add query parameter and
 use stringified form for data -> "{coordinates {id}}"(check network tab in dev tools in browser)
 
-FRONTEND
-npm install
-npm start
-Open http://localhost:5000
+FRONTEND<br>
+npm install<br>
+npm start<br>
+Open http://localhost:3000<br>
 (package from https://github.com/vasanthk/react-es6-webpack-boilerplate)

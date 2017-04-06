@@ -14,6 +14,8 @@ npm start
 Works on port 9999(check config.json)
 
 Check localhost:9999/api/index for graphql utility, type '{coordinates}' and run it
+If you need to connect to this endpoint via xhr, just add query parameter and
+use stringified form for data -> "{coordinates {id}}"(check network tab in dev tools in browser)
 
 FRONTEND
 npm install

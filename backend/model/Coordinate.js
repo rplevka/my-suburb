@@ -16,8 +16,7 @@ export default function (sequelize, dataTypes) {
             type: dataTypes.DOUBLE,
             allowNull: false,
             validate: {
-                isEmail: true,
-                notEmpty: true              
+                notEmpty: true
             }
         },
         x1: {

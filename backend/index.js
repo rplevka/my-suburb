@@ -5,8 +5,6 @@ var app = new App();
 instance.setApp(app);
 app.startServer();
 
-console.log(instance)
-
 //create user ...
 /*
 setTimeout(function() {

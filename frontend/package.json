@@ -1,10 +1,8 @@
 {
-  "name": "es6-webpack-starter",
+  "name": "SuburbHackathonFrontend",
   "version": "0.0.1",
-  "description": "A starter project to work with vanilla ES6 using Babel and Webpack 2",
   "main": "index.js",
   "repository": {},
-  "author": "Paulo Chaves <opaulochaves@mail.com>",
   "license": "MIT",
   "engines": {
     "node": ">=6"

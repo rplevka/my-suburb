@@ -1,0 +1,11 @@
+{
+  "server" : {
+    "port" : "9999"
+  },
+  "database": {
+    "host": "sql11.freemysqlhosting.net:3306",
+    "user": "sql11167855",
+    "password": "LwsvqMwXsb",
+    "database": "sql11167855"
+  }
+}
